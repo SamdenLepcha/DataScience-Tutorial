@@ -3,10 +3,10 @@ This is a very brief tutorial on the basics of Python3 programming. This tutoria
 <h3>Contents</h3>
 This tutorial will be divided into the following sections:
 <ol>
-  <li><a href ="https://github.com/Samden98/Python-Basic-Tutorial/blob/master/What%20is%20Python%20and%20Why%20use%20Python%3F.md">What is Python and Why use Python?</a></li>
-  <li><a href="https://github.com/Samden98/Python-Basic-Tutorial/blob/master/Installing%20Python.md">Installing Python</a></li>
-  <li><a href="https://github.com/Samden98/Python-Basic-Tutorial/tree/master/Getting%20Started%20and%20Jupyter%20Notebook">Getting Started and Jupyter Notebook</a></li>
-  <li><a href="https://github.com/Samden98/Python-Basic-Tutorial/tree/master/Data%20Types">Data Types</a></li>
+  <li><a href ="https://github.com/SamdenLepcha/DataScience-Tutorial/blob/master/Python-Basics/What%20is%20Python%20and%20Why%20use%20Python_.md">What is Python and Why use Python?</a></li>
+  <li><a href="https://github.com/SamdenLepcha/DataScience-Tutorial/blob/master/Python-Basics/Installing%20Python.md">Installing Python</a></li>
+  <li><a href="https://github.com/SamdenLepcha/DataScience-Tutorial/tree/master/Python-Basics/Getting%20Started%20and%20Jupyter%20Notebook">Getting Started and Jupyter Notebook</a></li>
+  <li><a href="https://github.com/SamdenLepcha/DataScience-Tutorial/tree/master/Python-Basics/Data%20types">Data Types</a></li>
   <ul>
     <li>Numbers</li>
     <li>Strings</li>
@@ -16,11 +16,11 @@ This tutorial will be divided into the following sections:
     <li>Tuples</li>
     <li>Sets</li>
   </ul>
-  <li><a href="https://github.com/Samden98/Python-Basic-Tutorial/tree/master/Comparision%20Operators">Comparison Operators</a></li>
-  <li><a href="https://github.com/Samden98/Python-Basic-Tutorial/tree/master/Conditional%20Statements">Conditional Statements</a></li>
-  <li><a href="https://github.com/Samden98/Python-Basic-Tutorial/tree/master/Iterative%20Statements">Iterative Statemens</a></li>
-  <li><a href="https://github.com/Samden98/Python-Basic-Tutorial/tree/master/Functions">Functions</a></li>
-  <li><a href="https://github.com/Samden98/Python-Basic-Tutorial/tree/master/Logic%20Operators">Logic Operators</a></li>
+  <li><a href="https://github.com/SamdenLepcha/DataScience-Tutorial/tree/master/Python-Basics/Comparision%20Operators">Comparison Operators</a></li>
+  <li><a href="https://github.com/SamdenLepcha/DataScience-Tutorial/tree/master/Python-Basics/Conditional%20Statements">Conditional Statements</a></li>
+  <li><a href="https://github.com/SamdenLepcha/DataScience-Tutorial/tree/master/Python-Basics/Iterative%20Statements">Iterative Statemens</a></li>
+  <li><a href="https://github.com/SamdenLepcha/DataScience-Tutorial/tree/master/Python-Basics/Functions">Functions</a></li>
+  <li><a href="https://github.com/SamdenLepcha/DataScience-Tutorial/tree/master/Python-Basics/Logic%20Operators">Logic Operators</a></li>
 </ol>
 
 <h4>To access this tutorial offline scroll to the top and click on the green clone or download button (I will explain how to navigate to these files and access them in the Jupyter Notebook Section.</h4>
