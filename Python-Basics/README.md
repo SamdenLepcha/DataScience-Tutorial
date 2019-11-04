@@ -2,6 +2,7 @@
 This is a very brief tutorial on the basics of Python3 programming. This tutorial is for those who have very little knowledge with programming in general. The official documentation of Python can be found <a href="https://docs.python.org/3/tutorial/">here</a>.
 <h3>Contents</h3>
 This tutorial will be divided into the following sections:
+<img align="right" width="500" height="280" src="https://developers.redhat.com/blog/wp-content/uploads/2018/08/python-logo-master-v3-TM-flattened.png">
 <ol>
   <li><a href ="https://github.com/SamdenLepcha/DataScience-Tutorial/blob/master/Python-Basics/What%20is%20Python%20and%20Why%20use%20Python_.md">What is Python and Why use Python?</a></li>
   <li><a href="https://github.com/SamdenLepcha/DataScience-Tutorial/blob/master/Python-Basics/Installing%20Python.md">Installing Python</a></li>
